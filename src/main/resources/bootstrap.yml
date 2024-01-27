@@ -1,0 +1,8 @@
+#spring:
+#  cloud:
+#    bus:
+#      enabled: true
+#    stream:
+#      kafka:
+#        binder:
+#          brokers: localhost:9092
